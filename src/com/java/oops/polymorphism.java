@@ -36,7 +36,6 @@ class Main {
     public static void main(String[] args) {
         // Parent class reference, child class objects
         Animal a;
-
         a = new Dog();
         a.sound();  // Output: Dog barks
 
